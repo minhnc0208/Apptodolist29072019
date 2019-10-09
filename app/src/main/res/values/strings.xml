@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Apptodolist29072019</string>
+    <string name="label_btn_Register">Đăng Ký</string>
+    <string name="label_btn_Login">Đăng Nhập</string>
 </resources>

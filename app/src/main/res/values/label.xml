@@ -2,4 +2,8 @@
 <resources>
     <string name="label_title_dang_ky">Đăng ký thông tin</string>
     <string name="label_hint_email_username">Email/Username</string>
+    <string name="label_hint_password">Password</string>
+    <string name="label_hint_re_password">Re-password</string>
+    <string name="label_btn_login">Login</string>
+    <string name="label_btn_register">Register</string>
 </resources>
