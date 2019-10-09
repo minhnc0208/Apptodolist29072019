@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="label_title_dang_ky">Đăng ký thông tin</string>
+    <string name="label_hint_email_username">Email/Username</string>
+</resources>
